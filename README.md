@@ -1,7 +1,7 @@
 🛠️ FEMTO - Ferramenta Estratégica de Monitoramento e Testes Operacionais
 FEMTO é uma aplicação de linha de comando feita em Python para diagnóstico rápido de sistemas operacionais. Foi projetada para usuários que desejam monitorar o desempenho do sistema, status de rede, testar a internet, realizar limpezas de arquivos temporários e gerar senhas seguras — tudo em um único menu funcional.
 
-===========================================================================================================
+===========================================================================================
 
 📋 Funcionalidades
 
@@ -26,8 +26,7 @@ Cria uma senha aleatória forte e segura com letras, números e símbolos.
 0. Sair
 Encerra o programa com segurança.
 
-===========================================================================================================
-
+===========================================================================================
 🚀 Como Executar
 Clone ou baixe este repositório.
 
@@ -65,6 +64,6 @@ subprocess (builtin)
 
 string, random, time, datetime
 
-===========================================================================================================
+===========================================================================================
 🧠 Autor
 Desenvolvido por [Anderson Samartin da Silva] como projeto de automação de tarefas no sistema operacional.
